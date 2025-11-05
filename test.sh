@@ -1,1 +1,1 @@
-echo "hello world edited hello world party"
+echo "Its git commit"
