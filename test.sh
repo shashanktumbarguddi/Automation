@@ -1,1 +1,1 @@
-echo "Its git commited"
+echo "Its git commited   hello"
